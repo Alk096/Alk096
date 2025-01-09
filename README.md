@@ -1,11 +1,11 @@
-Salut ! Je suis Mahamadou Alkerou
-Je j'evolue en developpement Web et mobile passionné par le code, 
-les nouvelles technologies et la résolution de problèmes. Actuellement, 
-je suis étudiant à l'Université Islamique du Niger, et j'ai une solide base en 
-[HTML, CSS, C++, Fulluter].
+💻 Mahamadou Alkerou
+Développeur Web & Mobile | Étudiant passionné de technologie et de résolution de problèmes
 
-- 🌱 J'apprends actuellement [JavaScript et React] pour améliorer mes compétences en développement web.
-- 💼 J'ai réalisé des projets sur [Figma, Adobe Illustrator, etc.], et je suis en train de créer un projet
-d'application appelé *NigerEvent*.
-- 📫 Vous pouvez me contacter ici : mahamsdoualker@gmail.com
-Lien vers mon profil GitHub : https://github.com/Alk096
+Salut ! Je suis Mahamadou Alkerou, étudiant à l'Université Islamique du Niger passionné par le code, les nouvelles technologies, et la création de solutions innovantes.
+
+🌱 En apprentissage : JavaScript,Php et React pour perfectionner mes compétences en développement web.
+🛠️ Compétences techniques : HTML, CSS, C++, Flutter
+📱 Projets : Actuellement, je travaille sur NigerEvent, une application conçue pour simplifier l'organisation d'événements au Niger.
+🎨 Design : Expérience dans la création de designs avec Figma, Adobe Illustrator, et Canva.
+🚀 Objectifs : Innover, apprendre constamment et contribuer à des projets à impact.
+📫 Contactez-moi : mahamsdoualker@gmail.com
