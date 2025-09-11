@@ -11,11 +11,3 @@ Languages: C++, C#, Java, Python, JavaScript, HTML, CSS
 Frameworks & Tools: React, Flutter, Fastify, Git/GitHub
 
 Areas of Interest: Web Development, Mobile Apps, Security & Automation
-
-#📫 How to reach me
-
-Email: mahamsdoualker@gmail.com
-
-GitHub: Check out my work
-
-LinkedIn: https://www.linkedin.com/in/mahamadou-alker-a4a815233/
