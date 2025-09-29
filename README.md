@@ -24,8 +24,7 @@
 
 ---
 
-## 🐍 Animation
-![Snake animation](https://github.com/alk096/alk096/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
