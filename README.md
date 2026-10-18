@@ -1,7 +1,7 @@
 <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=5000&color=00D1FF&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Mahamadou+Alker" alt="Name" />
         <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70E1FF&center=true&vCenter=true&width=600&height=50&lines=3rd+Year+CS+Student;Cybersecurity+Enthusiast;Junior+Fullstack+Developer" alt="Titles" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70E1FF&center=true&vCenter=true&width=600&height=50&lines=4th+Year+CS+Student;Cybersecurity+Enthusiast;Junior+Fullstack+Developer" alt="Titles" />
 </div>
 
 <p align="center">
